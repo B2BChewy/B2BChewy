@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B2BChewy
-- 👀 I’m interested in Ful Stack Web Development, as well as Cybersecurity and AWS
+- 👀 I’m interested in Ful Stack Web Development (Front end - Back end; HMTL, CSS, JavaScript, MERN Stack, MongoDB, node.js, SQL, MySQL, APIs), as well as Cybersecurity and AWS
 - 🌱 I’m currently learning Python and AWS cloud
 - 💞️ I’m looking to collaborate on projects, preferably humanitarian
 - 📫 How to reach me: [Email me](mailto:fahrijabilcevic@gmail.com)
