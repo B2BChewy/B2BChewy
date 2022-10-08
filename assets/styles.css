@@ -1,6 +1,6 @@
 :root {
     --primary-color: #cee9ff;
-    --secondary-color: #9a73cd;
+    --secondary-color: #6c0276;
     --tertiary-color: #2b2d42;
 }
 
@@ -89,7 +89,7 @@ p {
 /* Hero section style start*/
 
 .hero {
-    background: rgb(245, 245, 245);
+    background: rgb(228, 151, 97);
     background-image: url(./images/CodeS.png);
     background-size: contain;
     background-repeat: round;
@@ -108,7 +108,7 @@ p {
 
 .hero-subtitle {
     text-align: left;
-    color: rgb(13, 255, 0);
+    color: orange;
 }
 
 section {
@@ -256,34 +256,7 @@ address {
     border: .25vw solid var(--primary-color);
 }
 
-.work-item-project.roast-me {
-
-    background-image: url(./images/roast_me.png);
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    padding-left: 200px;
-    padding-bottom: 200px;
-    text-align: center;
-    color: rgb(84, 219, 50);
-    border: .25vw solid var(--primary-color);
-}
-
-.work-item-project.bbcm-programs {
-
-    background-image: url(./images/bbcm.png);
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    padding-left: 200px;
-    padding-bottom: 200px;
-    text-align: center;
-    color: rgb(84, 219, 50);
-    border: .25vw solid var(--primary-color);
-}
-
 .work-item-project.code-quiz {
-
     background-image: url(./images/codequiz.png);
     background-size: cover;
     display: flex;
@@ -294,6 +267,45 @@ address {
     color: rgb(84, 219, 50);
     border: .25vw solid var(--primary-color);
 }
+
+.work-item-project.code-quiz1 {
+    background-image: url(./images/codequiz.png);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    color: rgb(84, 219, 50);
+    border: .25vw solid var(--primary-color);
+}
+
+/* 
+.work-item-project.roast-me {
+    
+    background-image: url(./images/roast_me.png);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    color: rgb(84, 219, 50);
+    border: .25vw solid var(--primary-color);
+  }
+  .work-item-project.bbcm-programs {
+    
+    background-image: url(./images/bbcm.png);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    color: rgb(84, 219, 50);
+    border: .25vw solid var(--primary-color);
+  }
+  */
 
 /* Media Queries Start */
 /* Media Query for 980px screen */
