@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B2BChewy
-- 👀 I’m interested in Ful Stack Web Development 
+- 👀 I’m interested in Full Stack Web Development 
    
 *(Front end - Back end; HMTL, CSS, JavaScript, MERN Stack, MongoDB, node.js, SQL, MySQL, APIs)*
    * and working my way into Cybersecurity and AWS
